@@ -1,0 +1,9 @@
+This project focuses on predicting credit risk using machine learning algorithms. 
+It leverages a dataset of credit card applications from Kaggle and applies several classification models to assess whether an applicant is high-risk or low-risk.
+The models implemented include Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Gradient Boosting, and Neural Networks. 
+Performance metrics such as accuracy, precision, recall, and F1-score are used to evaluate and compare the models, with Random Forest emerging as the best-performing model.
+To apply and compare multiple machine learning algorithms for credit risk prediction.
+To evaluate model performance using key metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+To determine the most effective model for predicting credit risk by analyzing its performance on both training and test sets.
+The findings suggest that ensemble models, particularly Random Forests, Bagging, and Extra Trees, are highly effective in predicting credit risk due to their robustness and ability to capture complex patterns in the data. 
+Financial institutions can benefit from integrating these models into their credit decision-making processes, leading to more accurate and reliable risk assessments.
